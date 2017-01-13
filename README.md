@@ -1,3 +1,7 @@
+#README
+
+This is a forked repo from a react/redux course on Udemy.
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
